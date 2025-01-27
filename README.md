@@ -1,3 +1,3 @@
 # Open-WebUI
 
-🤗Space Open WebUI automatic update template
+🤗Space Open WebUI automatic update template.
